@@ -1,4 +1,2 @@
-# Beginner_Level
-Beginner level Projects
+# Bank_Churn_Prediction Model
 
-1) String Concatenation
